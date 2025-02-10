@@ -1,6 +1,6 @@
 # Clss code using       
 <div align="center">
-  <img src="assets/logo_new.png" style="width: 65%">
+  <img src="https://github.com/Strawberry-18/Clss/raw/refs/heads/main/file-X1gLGrvDLRYh1hVcbEqnqH.webp" style="width: 65%">
 </div>
 
 ___
