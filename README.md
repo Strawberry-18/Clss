@@ -58,3 +58,7 @@ ___
 </body>
 </html>
 ```
+output page 
+>this clone
+
+<image src="https://raw.githubusercontent.com/Strawberry-18/Clss/refs/heads/main/.github/workflows/Screenshot_2025-02-10-12-34-21-390_com.foxdebug.acode-edit.jpg">
