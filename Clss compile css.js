@@ -1,6 +1,6 @@
 
     // Load JSON File
-    fetch("https://github.com/Strawberry-18/Clss/blob/main/Clss%20all%20communication.json")
+    fetch("https://raw.githubusercontent.com/Strawberry-18/Clss/refs/heads/main/Clss%20all%20communication.json")
         .then(response => response.json())
         .then(cssRules => {
             document.querySelectorAll("[data-class]").forEach(el => {
