@@ -1,5 +1,5 @@
     // JSON-ல் இருந்து CSS Properties Apply செய்யும் Function
-    fetch("https://raw.githubusercontent.com/Strawberry-18/Clcss/main/Clss.json")
+    fetch("https://raw.githubusercontent.com/Strawberry-18/Clss/refs/heads/main/Clss%20all%20communication.json")
         .then(response => response.json())
         .then(cssRules => {
             document.querySelectorAll("[data-class]").forEach(el => {
